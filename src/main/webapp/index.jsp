@@ -51,7 +51,7 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>THiS IS MY FIRST JAVA WEB APPLICATION</h1>
+	    <h1 style="color: #ff0000">THIS IS MY FIRST JAVA WEB APPLICATION</h1>
 	<p style="color: #ff0000">This is from dev branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
@@ -80,7 +80,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Company 2024</p>
     </footer>
 </div> <!-- /container -->
 
