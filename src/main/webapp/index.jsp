@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Devsecops Course</title>
+    <title><h1>THIS IS MY FIRST JAVA WEB APPLICATION</h1></title>
 
 
     <!-- Custom styles for this template -->
